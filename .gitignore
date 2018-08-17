@@ -1,0 +1,39 @@
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.prefs
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+target/
+
+/.metadata/
+
+WebDriver/
+ReporteHTML/
+Screenshots/
+doc/
+.dbeaver-data-sources.xml
+.gradle/
+bin/
+.DS_Store
+gradle/.DS_Store
